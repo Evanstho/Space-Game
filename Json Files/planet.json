@@ -1,0 +1,32 @@
+{
+  "planets": [
+    "Abalon", "Adronix", "Agalon", "Akeron", "Alithis", "Althar", "Altharia", "Alyros", "Alythos", "Alythros",
+    "Amarion", "Anathor", "Aphiar", "Aphoros", "Arborea", "Arionth", "Arithos", "Ariarthos", "Arravon", "Astoria",
+    "Astraeos", "Athiris", "Asteris", "Azlara", "Azloria", "Azolath", "Azurthar", "Azolan", "Azelthra", "Baelor",
+    "Berylith", "Braneth", "Brontar", "Calanith", "Calithar", "Calyon", "Calythos", "Caldor", "Calythros", "Carionis",
+    "Corallion", "Cythril", "Delgoth", "Delgor", "Delthira", "Darnis", "Demphos", "Draeleon", "Dorianth", "Drethalon",
+    "Drosix", "Drosar", "Drosith", "Durathos", "Durathor", "Elaris", "Eldoria", "Elikon", "Eltharion", "Ephyros",
+    "Erithan", "Erithis", "Erilon", "Erydon", "Erythos", "Eryssia", "Exhoryx", "Falnara", "Falyra", "Fandros",
+    "Farithar", "Fenthoros", "Fioras", "Fylothar", "Fylion", "Ferion", "Galathis", "Galthis", "Galthar", "Galtharion",
+    "Galyon", "Glanthor", "Genthros", "Golthar", "Gorathos", "Gorathira", "Gorinor", "Gorthos", "Gorthira", "Glyndor",
+    "Gylothis", "Gylos", "Halyx", "Hathor", "Hithra", "Hythor", "Iphalon", "Irius", "Itharion", "Ithar", "Ithalon",
+    "Ithrax", "Jahris", "Jalithar", "Jalmar", "Jorlan", "Jynra", "Kadhros", "Kahlor", "Kailara", "Kalythos", "Kalyon",
+    "Kalthros", "Kaltros", "Keros", "Koralis", "Korathis", "Korathos", "Klanthar", "Korin", "Korythos", "Korythan",
+    "Kythros", "Larynth", "Lethros", "Lysal", "Lorithon", "Lorthar", "Lorvathos", "Lryis", "Lythara", "Lythros",
+    "Malthar", "Malthoros", "Marithas", "Marthal", "Mavros", "Mendras", "Menthis", "Menthros", "Morathos", "Morion",
+    "Mylon", "Myrelis", "Myros", "Mythra", "Myrtalon", "Narmara", "Naravis", "Nektha", "Nerithar", "Nirathos", "Nirith",
+    "Nithon", "Norethos", "Nyros", "Olanthar", "Othar", "Othanis", "Orlanth", "Orlian", "Orlos", "Osilath", "Osirian",
+    "Phalon", "Phalonis", "Phyris", "Phedros", "Pyros", "Pyrosar", "Prython", "Qyros", "Ralorin", "Ralovon", "Ralikar",
+    "Raelon", "Raelinth", "Raithon", "Rithan", "Rovara", "Ryloth", "Rylis", "Rylothar", "Rymar", "Rynix", "Rhypheron",
+    "Rythana", "Salarith", "Selaris", "Selyth", "Serthal", "Sethora", "Sirintha", "Sivaron", "Sylkara", "Sylith", "Sylion",
+    "Sylveth", "Sylvior", "Talarin", "Talarith", "Talythar", "Tarion", "Tauris", "Tethalon", "Tethros", "Theralon", "Therenox",
+    "Thranos", "Thyros", "Tylith", "Tylrith", "Toryth", "Torlanos", "Torathar", "Torranith", "Tritheon", "Valkor", "Valkria",
+    "Valdiron", "Valirith", "Valrithos", "Valthron", "Valthrios", "Vandros", "Vandrith", "Varithar", "Varnor", "Varrithos",
+    "Velkaros", "Velmiron", "Velonis", "Veloris", "Velthian", "Velthira", "Veyron", "Veythas", "Veythros", "Vibral",
+    "Vintharos", "Viros", "Vorthelos", "Vorthelos", "Vorthelos", "Vylas", "Vyloran", "Vyron", "Vyros", "Vydrion", "Volor",
+    "Xalden", "Xaloth", "Xanthros", "Xanthon", "Xenothar", "Xenothis", "Xerion", "Xerithar", "Xeron", "Xylian", "Xyloria",
+    "Xylos", "Xynthor", "Ylithos", "Ylorath", "Ysolon", "Zadron", "Zalrin", "Zalvathos", "Zarithos", "Zathar", "Zevian",
+    "Zevon", "Zethria", "Zirithis", "Zoranth", "Zolmar", "Zythron", "Zyphalon", "Zyphor", "Zylas", "Zorin", "Zorath", "Zorion",
+    "Zorvath", "Zyros"
+  ]
+}

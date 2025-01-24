@@ -1,0 +1,19 @@
+self._dict_of_weapons = {
+    #Category : {"weapon": [ Damage, # of shots]
+    "Beam": {"Lasers": [20, 2], "Heavy Lasers": [40, 3], "Blasters": [10, 10], "Laser Cluster": [25, 10]
+             },
+    # Projectiles directly hit armor and skip shields
+    "Projectile": {"Torpedoes": [20, 5], "Missiles": [20, 2], "Missile Cluster":[20, 10], "Mass Drivers": [50, 3], "Railgun": [250, 1], "Cannons": [20, 5], "Nukes": [70, 3], "Howitzers": [],
+                   },
+    "Plasma": {"Ion Cannons": [40, 3], "Pulse Lasers": [40, 2], "Phaser": [20, 2], "Ion Cluster": [20, 10]
+               },                                                   #
+    "Disruptor": {"EMP": [10, 1],
+                  },
+    "Special": {"Tractor Beam": [], "Grappler": [], "Drones":[], "Probes": [], "Ships": []
+                },
+
+}
+
+{
+    
+}

@@ -1,0 +1,358 @@
+{
+  "Class":{
+    "Sub":{
+      "Max_Weapons":3,
+      "Weapons": [], 
+      "Sheilds": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed": 250, 
+      "Power": 100,
+      "Max_Cargo": 100,
+      "Fuel": 200,
+      "Layout": []
+    }
+  },
+  "Transport":{
+    "Huble":{
+      "Max_Weapons": 1,
+      "Weapons": [], 
+      "Sheild": 200, 
+      "Armor": 50, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Fuel": 200,
+      "Layout": []
+    },
+    "Orion":{
+      "Max_Weapons": 1,
+      "Weapons":[],
+      "Sheild": 200, 
+      "Armor": 50, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Cargo": 100,
+      "Power": 100,
+      "Fuel": 200,
+      "Layout": []
+    },
+    "Fennec":{
+      "Max_Weapons": 1,
+      "Weapons": [], 
+      "Sheild": 200, 
+      "Armor": 50, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Fuel": 200,
+      "Layout": []
+    }
+
+  },
+  "Light": {
+    "Star": {
+      "Max_Weapons": 2,
+      "Weapons": [],
+      "Sheild": 200,
+      "Armor": 200,
+      "Hull": 200,
+      "Speed": 350,
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 25,
+      "Layout": []
+    },
+    "Comet": {
+      "Max_Weapons": 2,
+      "Weapons": [],
+      "Sheild": 200,
+      "Armor": 200,
+      "Hull": 200,
+      "Speed": 350,
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 25,
+      "Layout": []
+    },
+    "Asteroid": {
+      "Max_Weapons": 2,
+      "Weapons": [],
+      "Sheild": 200,
+      "Armor": 200,
+      "Hull": 200,
+      "Speed": 200,
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 25,
+      "Layout": []
+    }
+  },
+  "Heavy": {
+    "Reaper":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    },
+    "Crow":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    },
+    "Tombstone":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    }
+  },
+  "Frigate":{
+    "Hawk":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    },
+    "Eagle":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    },
+    "Falcon":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    }
+  },
+  "Destroyer":{
+    "Razor":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    },
+    "Katana":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    }
+  },
+  "Cruiser":{
+    "Viper":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    },
+    "Cobra":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    }
+  },
+  "Battlecruiser":{
+    "Viking":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    },
+    "Dreadnought":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    }
+  },
+  "Battleship":{
+    "Centurion":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    },
+    "Nemesis":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    }
+  },
+  "Carrier":{
+    "Swarm":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    },
+    "Hornet":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    }
+  },
+  "Capital":{
+    "Megalith":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    },
+    "Colossus":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    },
+    "Celestial":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    }
+
+  },
+  "Station":{
+    "Genesis":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    },
+    "Fortress":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    },
+    "Titan":{
+      "Max_Weapons": 3, 
+      "Sheild": 200, 
+      "Armor": 200, 
+      "Hull": 300, 
+      "Speed":250, 
+      "Crew": 100,
+      "Power": 100,
+      "Cargo": 100,
+      "Layout": []
+    }
+  }
+}
+  
